@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/jungsy8745/Seyoung-Jung/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD Candidate in the Department of Political Science at the University of Illinois at Urbana-Champaign. I study political psychology and biopolitics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research agenda centers on the formal and substantive aspect of citizenship. My dissertation project examines the influence of social context on political tolerance. I explain the level of political tolerance with sociotropic consideration, partisan conformity, and salience of positive consequences of political tolerance. In one of the papers, I test whether individuals are motivated to conform their attitudes to those of co-partisans regarding their willingness to act on political intolerance, and I address the biological underpinnings of this relationship by observing the moderating role of oxytocin hormone. 
 
-### Markdown
+Another stream of research interest is the role of dual citizenship on state attachment and political participation. For the measure of state attachment, I use both self-reported and implicit self-state associations.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research
 
-```markdown
-Syntax highlighted code block
+### Publications
+2020\. "Implicit and explicit state attachment among single and dual American citizens." _Politics, Groups, and Identities_ (with Aleksander Ksiazkiewicz)
 
-# Header 1
-## Header 2
-### Header 3
+2020\. “Biology and Decision Making.” In D.P. Redlawsk (Ed.) _Oxford Research Encyclopedia of Politics_ (with Aleksander Ksiazkiewicz)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jungsy8745/Seyoung-Jung/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2014\. “Continuity and Variation of Perception on North Korea: Regarding Its Stereotypic Tendency,” Korea and World Politics (with Yongho Kim) (in Korean)
